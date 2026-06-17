@@ -6,6 +6,7 @@
 - Fixed [#645](https://github.com/SimformSolutionsPvtLtd/showcaseview/issues/645) -  Prevent re-entrant calls to _onComplete during rapid barrier taps. Fixed by @[apizon](https://github.com/apizon)
 - Fixed [#639](https://github.com/SimformSolutionsPvtLtd/showcaseview/issues/639) - Add null-safety guards for async sequence transitions. Fixed by @[vasu-nageshri](https://github.com/vasu-nageshri)
 - Fixed [#622](https://github.com/SimformSolutionsPvtLtd/showcaseview/issues/622) - Resolve Semantics issue when using `go_router` and `showSemanticsDebugger` flag. Fixed by @[Sahil-Simform](https://github.com/Sahil-Simform)
+- Fix [#620](https://github.com/SimformSolutionsPvtLtd/showcaseview/pull/620)- Set MouseRegion opaque property to false for improved interaction in TargetWidget, TooltipWrapper, and FloatingActionWidget. Fixed by @[RuslanTsitser](https://github.com/RuslanTsitser)
 
 ## [5.0.2]
 
